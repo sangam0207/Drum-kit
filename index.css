@@ -1,0 +1,99 @@
+body{
+    background: url('./images/music.png');
+}
+h1{
+    color: black;
+    font-size: 5rem;
+    font-family: cursive;
+    font-weight: bolder;
+    text-align: center;
+}
+.set{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 30%;
+margin-top: 10%;
+}
+.w_drum{
+    background-color: blue;
+    color: chartreuse;
+    font-size: 6rem;
+    font-weight: bold;
+    font-family: cursive;
+    margin: 25px;
+    padding: 18px;
+    background: url('./images/tom4.png');
+}
+.a_drum{
+    background-color:red;
+    color: aquamarine;
+    font-size: 6rem;
+    font-weight: bold;
+    font-family: cursive;
+    margin: 25px;
+    padding: 18px;
+    background: url('./images/tom3.png');
+}
+.s_drum{
+    background-color:greenyellow;
+    color: red;
+    font-size: 6rem;
+    font-weight: bold;
+    font-family: cursive;
+    margin: 25px;
+    padding: 18px;
+    background:url('./images/snare.png') ;
+}
+.d_drum{
+    background-color:purple;
+    color: rgb(255, 217, 4);
+    font-size: 6rem;
+    font-weight: bold;
+    font-family: cursive;
+    margin: 25px;
+    padding: 18px;
+    background:url('./images/tom1.png') ;
+}
+.j_drum{
+    background-color:rgb(112, 218, 197);
+    color: rgb(34, 178, 94);
+    font-size: 6rem;
+    font-weight: bold;
+    font-family: cursive;
+    margin: 25px;
+    padding: 18px;
+    background: url('./images/tom2.png');
+}
+.k_drum{
+    background-color: rgb(255, 111, 0);
+    color:rgb(10, 120, 247);
+    font-size: 6rem;
+    font-weight: bold;
+    font-family: cursive;
+    margin: 25px;
+    padding: 18px;
+    background: url('./images/kick.png');
+}
+.l_drum{
+    background-color: rgb(221, 0, 255);
+    color:palevioletred;
+    font-size: 6rem;
+    font-weight: bold;
+    font-family: cursive;
+    margin: 25px;
+    padding: 18px;
+    background: url('./images/crash.png');
+}
+footer{
+    text-align: center;
+    font-size: 3rem;
+    font-family: cursive;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-left:28%;
+}
+.prassed{
+    box-shadow: 0 3px 4px 0 #d17ca1;
+    opacity: 0.5;
+}
